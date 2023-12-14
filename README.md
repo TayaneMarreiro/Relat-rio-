@@ -1,2 +1,2 @@
 # Relat-rio-
-Meu priemeiro relatório de QA
+Meu primeiro relatório de QA
